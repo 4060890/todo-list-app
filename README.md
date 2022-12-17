@@ -1,4 +1,4 @@
-SQLite Simple Todo App is a task manager app for daily tasks.As a simple todo list it does almost all the basic stuff.
+The Todo App is a task manager app for daily tasks.As a simple todo list it does almost all the basic stuff.
 
 Features :
 1) Pending todo manager
